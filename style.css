@@ -85,6 +85,10 @@ li::before {
 
 /* Media Queries */
 @media screen and (max-width: 576px) {
+  .container{
+  padding: 25px;
+  }
+  
   .header {
     display: flex;
     flex-direction: column;
