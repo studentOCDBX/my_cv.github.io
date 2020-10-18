@@ -67,8 +67,7 @@ a[href^="mailto"]::before {
 
 /* Partie après entête */
 
-.rôle,
-.name {
+.rôle,.name {
   font-weight: bold;
 }
 
