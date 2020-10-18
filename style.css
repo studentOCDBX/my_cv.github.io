@@ -109,7 +109,7 @@ li::before {
   }
 
   .domaine-compet {
-    width: 250px;
+/*     width: 250px; */
     margin: auto;
     word-wrap: break-word;
   }
